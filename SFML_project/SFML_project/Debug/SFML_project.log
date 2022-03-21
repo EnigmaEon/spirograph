@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Artem Mingazov\source\repos\SFML_project\SFML_project\main.cpp(32,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Artem Mingazov\source\repos\SFML_project\SFML_project\main.cpp(64,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Artem Mingazov\source\repos\SFML_project\SFML_project\main.cpp(65,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  SFML_project.vcxproj -> C:\Users\Artem Mingazov\source\repos\SFML_project\Debug\SFML_project.exe
